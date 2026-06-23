@@ -11,6 +11,9 @@ I am a psychologist specializing in Neuropsychology and Behavioral Neuroscience,
 ## 🌐 Where to find me
 
 <p align="left">
+  <a href="https://www.linkedin.com/@desiree-daphine">
+    <img src="https://img.shields.io/badge/LinkedIn-desiree-daphine0077B5?style=for-the-badge&logo=linkedin&logoColor=red" />
+  </a>
   <a href="https://github.com/desiree-daphi">
     <img src="https://img.shields.io/badge/GitHub-desiree-daphi100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -25,13 +28,12 @@ I am a psychologist specializing in Neuropsychology and Behavioral Neuroscience,
 
 -   📊 Dashboards & analytics
 -   🤖 Quantitative Data Analysis
--   💳 Payments, subscriptions & business logic
 -   🎓 Use of the pandas, numpy, and matplotlib libraries
 -   🧠 Avaliação Neuropsicológica
 
 ---
 
-## 🛠️ Linguagens e Tecnologias 
+## 🛠️ Languages ​​and Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -52,7 +54,7 @@ I am a psychologist specializing in Neuropsychology and Behavioral Neuroscience,
 
 ## 🚀 Philosophy
 
-> _"> "Decifrar o sistema nervoso e o comportamento não é apenas analisar dados biológicos; é mapear a arquitetura da mente humana para programar intervenções que transformem, com precisão e empatia, a nossa realidade.""_
+> _"Decifrar o sistema nervoso e o comportamento não é apenas analisar dados biológicos; é mapear a arquitetura da mente humana para programar intervenções que transformem, com precisão e empatia, a nossa realidade."_
 
 ---
 
