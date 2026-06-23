@@ -17,9 +17,6 @@ I am a psychologist specializing in Neuropsychology and Behavioral Neuroscience,
   <a href="https://github.com/desiree-daphi">
     <img src="https://img.shields.io/badge/GitHub-desiree-daphi100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ddfbdossantos">
-    <img src="https://img.shields.io/badge/Instagram-@ddfbdossantos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
