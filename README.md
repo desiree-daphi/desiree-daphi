@@ -11,11 +11,11 @@ I am a psychologist specializing in Neuropsychology and Behavioral Neuroscience,
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://www.linkedin.com/@desiree-daphine">
-    <img src="https://img.shields.io/badge/LinkedIn-desiree-daphine0077B5?style=for-the-badge&logo=linkedin&logoColor=red" />
+  <a href="https://www.linkedin.com/in/desiree-daphine">
+    <img src="https://img.shields.io/badge/LinkedIn-desiree--daphine-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/desiree-daphi">
-    <img src="https://img.shields.io/badge/GitHub-desiree-daphi100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-desiree--daphi-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
