@@ -26,6 +26,7 @@ I am a psychologist specializing in Neuropsychology and Behavioral Neuroscience,
 -   📊 Dashboards & analytics
 -   🤖 Quantitative Data Analysis
 -   🎓 Use of the pandas, numpy, and matplotlib libraries
+-   📈 Health data analysis with clinical interpretation
 -   🧠 Avaliação Neuropsicológica
 
 ---
